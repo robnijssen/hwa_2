@@ -2,7 +2,7 @@
 
 import rospy
 from std_msgs.msg import Int16
-from hardware_abstraction_2.msg import custom_msg
+from hwa_2.msg import custom_msg
 ########################
 # delete all the #### to run on rasberry
 
